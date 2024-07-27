@@ -1,0 +1,3 @@
+This folder contains jupyter notebooks related to redistricting.
+
+TMM_Iowa contains the the code 'as is' from the runs that produce the data for the Topological Mailman manuscript.
